@@ -26,7 +26,6 @@ I'm from Indonesia.
 
 <br />
 
-
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
@@ -56,16 +55,12 @@ I'm from Indonesia.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/discord/discord.png"></code>
 
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohmad-st&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohmad-st&show_icons=true&include_all_commits=true&theme=dracula" alt="Rohmad's github stats" />
-</a>
-
-<br />
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohmad-st&layout=compact&theme=dracula" />
-</a>
-</a>
+[![Rohmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohmad-st&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
