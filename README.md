@@ -20,9 +20,7 @@
 
 Hi, I'm Rohmad Sasmito, a passionate FrontEnd Web Developer.
 
-Also has experiences as Mobile and Backend Developer in along time ago.
-
-I'm from Indonesia.
+Also, I have experience as Mobile and Backend Developer a long time ago.
 
 <br />
 
