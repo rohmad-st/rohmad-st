@@ -20,7 +20,9 @@
 
 Hi, I'm Rohmad Sasmito, an Experienced Software Engineer with strong skill in Frontend.
 
-I have vary experience as in development web & mobile application.
+I have vary experience in Web & Mobile application development.
+
+Feel free to reach me out over my contact info or check my repositories out!
 
 <br />
 
