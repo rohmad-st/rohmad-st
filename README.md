@@ -18,9 +18,9 @@
 <br />
 <br />
 
-Hi, I'm Rohmad Sasmito, a passionate FrontEnd Web Developer.
+Hi, I'm Rohmad Sasmito, an Experienced Software Engineer with strong skill in Frontend.
 
-Also, I have experience as Mobile and Backend Developer a long time ago.
+I have vary experience as in development web & mobile application.
 
 <br />
 
